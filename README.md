@@ -1,4 +1,39 @@
+# Smart Web-Based Attendance & Machinery Management System
 
+A comprehensive web-based attendance and workforce management system designed to help organizations efficiently track staff attendance, manage equipment, and generate operational reports.
+
+This system provides real-time monitoring of staff activities, attendance logging, machinery inventory tracking, and administrative analytics through an intuitive dashboard.
+
+## 🚀 Tech Stack
+
+Frontend
+- React.js
+- Axios
+- TailwindCSS / Material UI (optional)
+
+Backend
+- Django
+- Django REST Framework
+
+Database
+- MongoDB
+
+DevOps & Infrastructure
+- Docker
+- Docker Compose
+- Git & GitHub
+- CI/CD Ready
+
+## ✨ Key Features
+
+### User & Authentication
+- Secure user authentication
+- Role-based access control (Admin & Staff)
+- JWT authentication
+
+### Staff Attendance
+- Check-in / Check-out system
+- Attendance history tracking
 - Real-time attendance monitoring
 - Daily, weekly, and monthly logs
 
